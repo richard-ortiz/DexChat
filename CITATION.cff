@@ -8,7 +8,7 @@ type: software
 authors:
   - given-names: Richard
     family-names: Ortiz
-    email: rjortiz4@hotmail.com
+    email: rortiz@niu.edu
     affiliation: "Northern Illinois University, Department of Psychology"
     orcid: "https://orcid.org/0000-0002-1209-9744"
 version: 1.0.0
