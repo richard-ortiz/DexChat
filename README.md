@@ -3,7 +3,7 @@ Title: Dextran and Chitosan Solution Calculator
 Version: 1.0.0
 Authors@R:
     person("Richard", "Ortiz",
-           email = "rjortiz4@hotmail.com",
+           email = "rortiz@niu.edu",
            role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-1209-9744"))
 Description: A Shiny application that computes the solvent volumes required
