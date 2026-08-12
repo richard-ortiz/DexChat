@@ -93,12 +93,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-### Before you push
 
-One thing still needs your input: a `www/logo.png`, if you want the sidebar
-logo back. The original app hot-linked it from a Twitter URL; see
-[`www/README.md`](www/README.md) for why that is worth replacing.
-
-Consider also swapping the contact address in `DESCRIPTION` and
-`CITATION.cff` for your NIU address — an institutional email ages better on
-a cited research tool than a personal one.
