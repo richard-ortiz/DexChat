@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DEXCHAT: Dextran and Chitosan Solution Calculator"
+abstract: >-
+  A Shiny application that computes the solvent volumes required to dissolve
+  given masses of chitosan and dextran to their target working concentrations.
+type: software
+authors:
+  - given-names: Richard
+    family-names: Ortiz
+    email: rjortiz4@hotmail.com
+    affiliation: "Northern Illinois University, Department of Psychology"
+    orcid: "https://orcid.org/0000-0002-1209-9744"
+version: 1.0.0
+date-released: "2026-08-12"
+license: MIT
+repository-code: "https://github.com/richard-ortiz/dexchat"
+keywords:
+  - chitosan
+  - dextran
+  - shiny
+  - laboratory-calculator
+  - reproducible-research
